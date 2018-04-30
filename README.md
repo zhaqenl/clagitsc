@@ -2,5 +2,5 @@ CLAGITSC
 ========
 
 
-Jen estas la `clagitsc.lisp` dosiero, kiu enhavas la kodorespondojn de la kodoekzercoj de la
-CLAGITSC-a libro.
+This is the compilation of the code exercises located in the book CLAGITSC.
+
